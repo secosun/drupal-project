@@ -14,6 +14,10 @@
         {
             "type": "composer",
             "url": "https://packages.drupal.org/7"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/secosun/drupal.git"
         }
     ],
     "require": {
@@ -29,7 +33,7 @@
         "cweagans/composer-patches": "^1.6.5",
         "drupal-composer/preserve-paths": "^0.1",
         "drupal/composer_autoloader": "^1.0",
-        "drupal/drupal": "7.80",
+        "secosun/drupal": "7.80",
         "drush/drush": "^8.0",
         "symfony/filesystem": "~2.7|^3",
         "webflo/drupal-finder": "^1.0.0"
