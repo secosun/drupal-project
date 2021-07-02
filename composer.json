@@ -15,9 +15,29 @@
             "url": "https://packages.drupal.org/7"
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/secosun/drupal.git"
+           "type": "vcs",
+            "url":"git@github.com:secosun/drupal.git"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "secosun/drupal",
+                "version": "7.80",
+                "dist": {
+                    "url": "https://github.com/secosun/drupal/archive/refs/tags/7.80.zip",
+                    "type": "zip"
+                },
+                "source": {
+                    "url": "git@github.com:secosun/drupal.git",
+                    "type": "vcs",
+                    "reference": "7.80"
+                },
+                "autoload": {
+                    "classmap": ["libs/"]
+                }
+            }
         }
+
     ],
     "require": {
         "php": ">=5.3.3",
