@@ -1,7 +1,6 @@
 {
     "name": "secosun/drupal-project",
     "description": "Project template for Drupal 7 projects with composer",
-    "version": "2.0.0-dev",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [
