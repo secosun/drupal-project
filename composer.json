@@ -30,7 +30,8 @@
                 },
                 "autoload": {
                     "classmap": []
-                }
+                },
+                "type": "drupal-core"
             }
         }
 
