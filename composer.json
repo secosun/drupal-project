@@ -51,8 +51,8 @@
         "composer/semver": "^1.4",
         "cweagans/composer-patches": "^1.6.5",
         "drupal-composer/preserve-paths": "^0.1",
-        "drupal/composer_autoloader": "^1.0",
         "secosun/drupal": "7.90",
+        "drupal/composer_autoloader": "^1.0",
         "drush/drush": "^8.0",
         "symfony/filesystem": "~2.7|^3",
         "webflo/drupal-finder": "^1.0.0"
@@ -103,6 +103,9 @@
         },
         "preserve-paths": [
             "web/sites"
-        ]
+        ],
+        "branch-alias": {
+           "dev-jhvege": "7.x-dev"
+        }
     }
 }
