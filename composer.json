@@ -17,7 +17,7 @@
         {
             "type": "package",
             "package": {
-                "name": "secosun/drupal",
+                "name": "drupal/drupal",
                 "version": "7.90",
                 "dist": {
                     "url": "https://github.com/secosun/drupal/archive/refs/tags/7.90.zip",
@@ -51,7 +51,7 @@
         "composer/semver": "^1.4",
         "cweagans/composer-patches": "^1.6.5",
         "drupal-composer/preserve-paths": "^0.1",
-        "secosun/drupal": "7.90",
+        "drupal/drupal": "7.90 as 7.x-dev",
         "drupal/composer_autoloader": "^1.0",
         "drush/drush": "^8.0",
         "symfony/filesystem": "~2.7|^3",
