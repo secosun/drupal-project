@@ -12,7 +12,8 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://packages.drupal.org/7"
+            "url": "https://packages.drupal.org/7",
+            "canonical": false
         },
         {
             "type": "package",
