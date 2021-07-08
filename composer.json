@@ -53,12 +53,12 @@
         "composer/semver": "^1.4",
         "cweagans/composer-patches": "^1.6.5",
         "drupal-composer/preserve-paths": "^0.1",
-        "drupal/drupal": "7.90",
         "drupal/composer_autoloader": "^1.0",
+        "drupal/drupal": "7.90",
+        "drupal/commerce":"^1.0"
         "drush/drush": "^8.0",
         "symfony/filesystem": "~2.7|^3",
-        "webflo/drupal-finder": "^1.0.0",
-        "drupal/commerce":"^1.0"
+        "webflo/drupal-finder": "^1.0.0"   
     },
     "conflict": {
         "drupal/core": "8.*"
