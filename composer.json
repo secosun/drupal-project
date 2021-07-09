@@ -55,6 +55,7 @@
         "drupal-composer/preserve-paths": "^0.1",
         "drupal/composer_autoloader": "^1.0",
         "drupal/oauth_server_sso":"^1.0",
+        "drupal/views":"^3.20",
         "drupal/drupal": "7.90",
         "drupal/commerce":"^1.0",
         "drush/drush": "^8.0",
