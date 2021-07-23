@@ -73,7 +73,8 @@
         "drupal/commerce":"^1.0",
         "drush/drush": "^8.0",
         "symfony/filesystem": "~2.7|^3",
-        "webflo/drupal-finder": "^1.0.0"   
+        "webflo/drupal-finder": "^1.0.0",
+        "secosun/jhprofiles":"^1.0"  
     },
     "conflict": {
         "drupal/core": "8.*"
