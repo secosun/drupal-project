@@ -38,6 +38,18 @@
                   "drupal/drupal":"*"
                 }
             }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "secosun/jhprofiles",
+                "version": "1.0",
+                "dist": {
+                    "url": "https://github.com/secosun/jhprofiles/archive/refs/heads/master.zip",
+                    "type": "zip"
+                },
+                "type": "drupal-profile"
+            }
         }
 
     ],
