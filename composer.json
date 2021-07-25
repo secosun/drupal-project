@@ -66,7 +66,7 @@
         "cweagans/composer-patches": "^1.6.5",
         "drupal-composer/preserve-paths": "^0.1",
         "drupal/composer_autoloader": "^1.0",
-        "drupal/oauth_server_sso":"^1.0",
+        "drupal/oauth2_server":"^1.0",
         "drupal/views":"^3.20",
         "drupal/addressfield":"^1.0",
         "drupal/drupal": "7.90",
