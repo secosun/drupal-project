@@ -33,10 +33,7 @@
                 "autoload": {
                     "classmap": []
                 },
-                "type": "drupal-core",
-                "conflict":	{                                                                                                                                                                                 
-                  "drupal/drupal":"*"
-                }
+                "type": "drupal-core"
             }
         },
         {
